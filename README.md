@@ -86,31 +86,8 @@ Nashik <-> Sinnar <-> Shirdi
 - Dynamic memory allocation
 - Doubly Linked List
 
-## 7. How to Compile and Run
 
-### Using g++
-
-From the repository's root directory, compile the source file:
-
-```bash
-g++ Source_Code/linkedlist.cpp -o busroute
-```
-
-On Windows, run:
-
-```text
-busroute.exe
-```
-
-On Linux or macOS, run:
-
-```bash
-./busroute
-```
-
-Alternatively, open `Source_Code/linkedlist.cpp` in Dev-C++, compile it, and run the program.
-
-## 8. Example Output
+## 7. Example Output
 
 For a route containing Nashik, Sinnar, and Shirdi:
 
@@ -129,7 +106,7 @@ Next Stop: Shirdi
 These are example outputs; verify the exact messages against the program's actual output.
 
 
-## 11. Conclusion
+## 8. Conclusion
 
 This project demonstrates how a Doubly Linked List can be used to manage bus route stops. It supports insertion, deletion, forward and backward traversal, and finding adjacent stops. The project provides practical experience with pointers, dynamic memory allocation, and linked-list operations.
 
