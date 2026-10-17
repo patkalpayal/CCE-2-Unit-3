@@ -1,6 +1,6 @@
 1. Project Title
 
-Company Hierarchy Management System Using Binary Tree and Queue
+Develope a Company Hierarchy application using a binary tree and display employee level by level using a queue.
 
 Subject: Data Structures and Algorithms (DSA)
 Unit: IV
